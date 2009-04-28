@@ -1,4 +1,5 @@
 --- 
+- :name: rails
 - :version: = 1.4.0
   :name: highline
 - :version: = 2.0.5
@@ -9,8 +10,6 @@
   :name: tlsmail
 - :version: = 0.1.0
   :name: activerecord-tableless
-- :version: = 2.1.0
-  :name: haml
 - :source: http://gems.github.com
   :version: = 0.6.1
   :name: chriseppstein-compass
