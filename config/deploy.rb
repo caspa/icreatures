@@ -1,0 +1,1 @@
+server "webbynode", :app, :web, :db, :primary => true
