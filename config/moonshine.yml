@@ -10,6 +10,9 @@
 :repository: git@github.com:caspa/icreatures.git
 # Use :app_symlinks to setup directories under public/ that you want to persist
 # across deployments. They'll be symlinked to the shared directory.
+:ssl:
+  :self_signed: true
+  
 :app_symlinks:
   - assets
 #

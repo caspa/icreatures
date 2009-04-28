@@ -1,5 +1,4 @@
---- 
-- :name: rails
+---
 - :version: = 1.4.0
   :name: highline
 - :version: = 2.0.5
@@ -8,13 +7,12 @@
   :name: activemerchant
 - :version: = 0.0.1
   :name: tlsmail
+- :version: = 0.0.6
+  :name: active_presenter
 - :version: = 0.1.0
   :name: activerecord-tableless
-- :source: http://gems.github.com
-  :version: = 0.6.1
-  :name: chriseppstein-compass
 - :version: = 1.15
   :name: calendar_date_select
-- :version: = 1.6.6
-  :name: searchlogic
+- :version: = 0.0.2
+  :name: schof-searchlogic
 - :name: rails
